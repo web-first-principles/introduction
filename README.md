@@ -15,3 +15,18 @@ That's why I decided to run this project. We will cover all this stuffs in `firs
 
   Assuming that you just know nothing more than basic **JavaScript**, this project aims to teach you everything you need to craft modern web applications.
 
+<div align="center">
+<h3>Content</h3>
+</div>
+
+Before we begin, I'd like to prepare you that building all this tools is not really a trivial tasks, so be patient to yourself. It's quite long journey, but belive me you will be excited about what you will learn.<br> We will cover thing in specific order, that I think the most comfortable to follow, but you can use all stuffs as separate components.
+
+ 1. [JavaScript module loaders]()
+ 2. [Build tools in front-end world]()
+ 3. TBD
+ 4. Programming languages
+ 5. [SPA frameworks]()
+ 5. [Component as a main building block]()
+ 6. TBD
+
+
