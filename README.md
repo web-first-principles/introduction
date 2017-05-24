@@ -17,10 +17,13 @@ That's why I decided to run this project. We will cover all this stuffs in `firs
 
 <div align="center">
 <h3>What the heck is "first principles" method</h3>
+</div>
 <p>Speaking formarly learning from first principles is a way of self teaching, where instead of finding analogies of something you deconstruct problem into layers starting from the lowest and getting higher. Think about it as a pyramid where in the bottom are the most fundamental thinks and moving upper you will interact with more and more abstactions.<br></p>
 <p>It is not a new "hot" method of learning, it is the way of how you should think about certain problems as well.<br>
 One of famous adaptors of this method is Elon Musk, who is in my opinion genius of our time, who worked on `SpaceX`, `PayPal`, `Tesla` to say few.
 </p>
+
+<div align="center">
 <a href="https://www.youtube.com/watch?v=NV3sBlRgzTI"><img width="300" height="170" src="https://i.ytimg.com/vi/NV3sBlRgzTI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIZCGAE=&rs=AOn4CLBJH_Ifz1-m2lYqrV77lbGebYaeFg"><br>The First Principles Method Explained by Elon Musk</a>
 </div>
 
