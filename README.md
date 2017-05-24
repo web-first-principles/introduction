@@ -1,5 +1,5 @@
 <div align="center">
-<p>Work in progress</p>
+<p>Work in progress :exclamation:</p>
 <h3>Web development from first principles</h3>
 <p>Learn modern web programming, rebuilding whole stack from scratch </p>
 </div>
@@ -26,6 +26,13 @@ One of famous adaptors of this method is Elon Musk, who is in my opinion genius 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=NV3sBlRgzTI"><img width="300" height="170" src="https://i.ytimg.com/vi/NV3sBlRgzTI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIZCGAE=&rs=AOn4CLBJH_Ifz1-m2lYqrV77lbGebYaeFg"><br>The First Principles Method Explained by Elon Musk</a>
 </div>
+
+<br>
+
+Also this method was actively adopted in some CS courses all over that world.
+I strongly recommend to check them:
+ * [NAND to Tetrist (Build modern computer from the basic logic gate to os and compiler)](http://www.nand2tetris.org/)
+ * [The computing technologies inside smartphone (Understand undelying computing systems of your device)](https://www.edx.org/course/computing-technology-inside-smartphone-cornellx-engri1210x-0)
 
 <div align="center">
 <h3>Content</h3>
