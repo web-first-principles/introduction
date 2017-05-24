@@ -21,9 +21,8 @@ That's why I decided to run this project. We will cover all this stuffs in `firs
 <p>It is not a new "hot" method of learning, it is the way of how you should think about certain problems as well.<br>
 One of famous adaptors of this method is Elon Musk, who is in my opinion genius of our time, who worked on `SpaceX`, `PayPal`, `Tesla` to say few.
 </p>
-</div>
-
 <a href="https://www.youtube.com/watch?v=NV3sBlRgzTI"><img width="300" height="170" src="https://i.ytimg.com/vi/NV3sBlRgzTI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIZCGAE=&rs=AOn4CLBJH_Ifz1-m2lYqrV77lbGebYaeFg"><br>The First Principles Method Explained by Elon Musk</a>
+</div>
 
 <div align="center">
 <h3>Content</h3>
